@@ -1,0 +1,16 @@
+// Swapping two nos in java (Optimised)
+public class SwapNos {
+    
+    public static void swap(int a, int b) {
+        int temp = a;
+         a = b;
+         b = temp;
+        System.out.println("a is " + a);
+        System.out.println("b is " + b);
+    }
+    
+    public static void main(String args[]) {
+        int a=45; int b=12;
+        swap(a,b);
+    }
+}
