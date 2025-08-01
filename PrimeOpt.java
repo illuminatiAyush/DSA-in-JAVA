@@ -1,4 +1,4 @@
-// Jva Program  to check whether the number is prime or not
+// Jva Program  to check whether the number is prime or not this is the most optimised approach to solve this q
 import java.util.*;
 
 public class PrimeOpt {
