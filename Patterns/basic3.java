@@ -1,4 +1,4 @@
-// Half Pyramid Pattern Using nuumbers 
+//  Half Pyramid Pattern Using numbers 
 // solving this problem using nested loops without functions
 public class basic3{
     public static void main(String[] args) {
