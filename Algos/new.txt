@@ -1,1 +1,2 @@
 all the basics and advanced dsa algorithms 
+optimised approach 
