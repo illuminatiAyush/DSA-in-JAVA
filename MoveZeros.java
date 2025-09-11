@@ -1,9 +1,9 @@
 
 /* q1 . You’re given an array of integers. Write a function to move all zeros to the end while keeping the relative order of non-zero elements the same. */
 
-You cannot use another array.
+// You cannot use another array.
 
-Optimize for time and space.
+// Optimize for time and space.
 
 public class MoveZeros {
     public static void moveZeros(int[] arr) {
