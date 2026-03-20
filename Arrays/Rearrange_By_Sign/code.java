@@ -39,4 +39,4 @@ public class code{
 }
 
 //since humne traverse kiya poora array, fir separate kiya +- integers, so O(n) hua.. time.
-// 3 arrays bane, pos[]. neg[], arr[], so n+n=3n gives sspace comp of O(n) only
+// 3 arrays bane, pos[]. neg[], arr[], so n+n+n=3n gives sspace comp of O(n) only
