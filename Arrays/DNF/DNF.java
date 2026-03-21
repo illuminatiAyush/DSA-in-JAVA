@@ -12,7 +12,7 @@ public class DNF {
         int high = nums.length-1; 
         int temp;
 
-        while(mid<high){
+        while(mid<=high){
         if(nums[mid] == 0){
             temp = nums[mid];
             nums[mid] = nums[low];
