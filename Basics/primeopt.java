@@ -1,7 +1,7 @@
 // Jva Program  to check whether the number is prime or not this is the most optimised approach to solve this q
 import java.util.*;
 
-public class primeOpt { 
+public class primeopt { 
     public static boolean isPrime(int n) {
         if (n <= 1) {
             return false; 
