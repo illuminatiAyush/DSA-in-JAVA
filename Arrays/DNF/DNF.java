@@ -1,6 +1,6 @@
 // hum DNF algpo tbhi use krte h jab hume array me basically 3 sections diye ho nd unhe sort krna ho accordingly..
 // so iss Qn me whi concept use hua h jisme humara mid main role play krta h, nd low nd high array ke starting nd ending part ko dekhte/sort krte h
-// DNF ki time complexity is O(1) kyuki hum ek hi pass me array traverse krte hai & space comp is O(1) since there is no extra space used except variables even after which the space complexity remains constant
+// DNF ki time complexity is O(n) kyuki hum ek hi pass me pure array ko traverse krte hai (single pass over n elements) & space comp is O(1) since there is no extra space used except variables, jo array size se independent hai
 
 package Arrays.DNF;
 
